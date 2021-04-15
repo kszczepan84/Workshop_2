@@ -1,7 +1,7 @@
 //package pl.coderslab.entity;
 //
 //import org.apache.commons.lang3.ArrayUtils;
-//import pl.coderslab.DbUtil;
+//import pl.coderslab.utils.DbUtil;
 //
 //import java.sql.*;
 //import java.util.Arrays;
